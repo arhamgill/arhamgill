@@ -94,17 +94,6 @@ Property booking platform with Guesty API integration, reservation workflows and
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arhamgill&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamgill&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 ## Currently
 
