@@ -7,7 +7,7 @@
 Building scalable backend systems, modern web applications, and AI-powered products.
 
 🌐 **Portfolio:** https://arhamgill.com  
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_USERNAME  
+💼 **LinkedIn:** https://linkedin.com/in/arhamgilldev 
 📫 **Email:** arhamgill.dev@gmail.com
 
 </div>
@@ -98,9 +98,9 @@ Property booking platform with Guesty API integration, reservation workflows and
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arhamgill&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamgill&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -119,6 +119,6 @@ Property booking platform with Guesty API integration, reservation workflows and
 
 Portfolio → https://arhamgill.com
 
-LinkedIn → https://linkedin.com/in/YOUR_USERNAME
+LinkedIn → https://linkedin.com/in/arhamgilldev
 
 Email → arhamgill.dev@gmail.com
